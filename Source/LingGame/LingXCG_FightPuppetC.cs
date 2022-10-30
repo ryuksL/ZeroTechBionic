@@ -1,13 +1,12 @@
 using Verse;
 
-namespace LingGame
+namespace LingGame;
+
+public class LingXCG_FightPuppetC : HediffWithComps
 {
-    public class LingXCG_FightPuppetC : HediffWithComps
+    public override void Tick()
     {
-        public override void Tick()
-        {
-            base.Tick();
-            pawn.ageTracker.AgeBiologicalTicks += 99L;
-        }
+        base.Tick();
+        pawn.ageTracker.AgeBiologicalTicks += 99L;
     }
 }

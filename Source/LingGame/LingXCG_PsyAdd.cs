@@ -1,22 +1,21 @@
 using Verse;
 
-namespace LingGame
+namespace LingGame;
+
+public class LingXCG_PsyAdd : HediffWithComps
 {
-    public class LingXCG_PsyAdd : HediffWithComps
+    private int tti;
+
+    public override void Tick()
     {
-        private int tti;
-
-        public override void Tick()
+        base.Tick();
+        tti++;
+        if (tti < 60)
         {
-            base.Tick();
-            tti++;
-            if (tti < 60)
-            {
-                return;
-            }
-
-            tti = 0;
-            pawn.psychicEntropy?.OffsetPsyfocusDirectly(0.01f);
+            return;
         }
+
+        tti = 0;
+        pawn.psychicEntropy?.OffsetPsyfocusDirectly(0.01f);
     }
 }

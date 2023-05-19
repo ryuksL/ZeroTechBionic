@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 无头 -->
+  <LingXCG_NoHead.label>Skull compressor</LingXCG_NoHead.label>
+  <LingXCG_NoHead.description>A special reactor that compresses your skull to the chest cavity can essentially avoid headshots.</LingXCG_NoHead.description>
+  <LingXCG_NoHead.labelNoun>neck</LingXCG_NoHead.labelNoun>
+  <!-- 意识 -->
+  <LingXCG_BrainEnhancementDevice.label>Brain catalytic device</LingXCG_BrainEnhancementDevice.label>
+  <LingXCG_BrainEnhancementDevice.description>A brain-strengthening device can greatly enhance the installer's consciousness, but it will also lead to a large increase in the need for nutrition.</LingXCG_BrainEnhancementDevice.description>
+  <LingXCG_BrainEnhancementDevice.labelNoun>Brain catalytic device</LingXCG_BrainEnhancementDevice.labelNoun>
+  <!-- 无食 -->
+  <LingXCG_NoHunger.label>Substance synthesis chip</LingXCG_NoHunger.label>
+  <LingXCG_NoHunger.description>A chip that can be installed in the heart can synthesize energy through a number of methods, so that the organism does not need to eat, but can only maintain a low degree of physiological activity.</LingXCG_NoHunger.description>
+  <LingXCG_NoHunger.labelNoun>chip</LingXCG_NoHunger.labelNoun>
+  <!-- 无心 -->
+  <LingXCG_NoHeart.label>Emotional blocking chips</LingXCG_NoHeart.label>
+  <LingXCG_NoHeart.description>A chip that suppresses the brain's emotional function will make the creature like a machine no longer have any emotional fluctuations.</LingXCG_NoHeart.description>
+  <LingXCG_NoHeart.labelNoun>chip</LingXCG_NoHeart.labelNoun>
+  <!-- 隐形 -->
+  <LingXCG_Invisible.label>Light distortion chip</LingXCG_Invisible.label>
+  <LingXCG_Invisible.description>A chip that distorts the light around a creature to achieve stealth, but greatly reduces the creature's mobility.</LingXCG_Invisible.description>
+  <LingXCG_Invisible.labelNoun>chip</LingXCG_Invisible.labelNoun>
+  <!-- 防御 -->
+  <LingXCG_OldSkin.label>Cured skin chip</LingXCG_OldSkin.label>
+  <LingXCG_OldSkin.description>A chip that secretes chemicals that reduce the skin's activity can make the skin tough to strengthen the body's defenses, but due to the reduced activity, the body's natural ability to recover is affected.</LingXCG_OldSkin.description>
+  <LingXCG_OldSkin.labelNoun>chip</LingXCG_OldSkin.labelNoun>
+  <!-- 包扎 -->
+  <LingXCG_AutoBandaging.label>Automatic bandaging chip</LingXCG_AutoBandaging.label>
+  <LingXCG_AutoBandaging.description>A chip that can detect the wound on the installer and automatically bandage, due to the low level of artificial intelligence installed, needs to read part of the installer's knowledge to work better, and the treatment effect is linked to the installer's medical knowledge level.</LingXCG_AutoBandaging.description>
+  <LingXCG_AutoBandaging.labelNoun>chip</LingXCG_AutoBandaging.labelNoun>
+  <!-- 治病 -->
+  <LingXCG_AutoMedical.label>Automated medical chips</LingXCG_AutoMedical.label>
+  <LingXCG_AutoMedical.description>A chip that can respond to the human immune system can automatically treat diseases when it finds a treatable disease, and because the installed artificial intelligence level is low, it needs to read part of the installer's knowledge to work better, and the treatment effect is linked to the installer's medical knowledge level.</LingXCG_AutoMedical.description>
+  <LingXCG_AutoMedical.labelNoun>chip</LingXCG_AutoMedical.labelNoun>
+  <!-- 回血 -->
+  <LingXCG_BodyRegeneration.label>Tissue regeneration chips</LingXCG_BodyRegeneration.label>
+  <LingXCG_BodyRegeneration.description>A chip that can detect the wound on the installer's body and actively assist in regenerating the limb can speed up the recovery of the wound, and because it is not natural, it is not affected by the natural recovery speed.</LingXCG_BodyRegeneration.description>
+  <LingXCG_BodyRegeneration.labelNoun>chip</LingXCG_BodyRegeneration.labelNoun>
+  <!-- 造肢 -->
+  <LingXCG_BodyReconstruction.label>Limb reconstruction chip</LingXCG_BodyReconstruction.label>
+  <LingXCG_BodyReconstruction.description>A chip that secretes substances to stimulate the regeneration of a severed limb consumes 10% of energy per repair. It recovers 5% per day.</LingXCG_BodyReconstruction.description>
+  <LingXCG_BodyReconstruction.labelNoun>chip</LingXCG_BodyReconstruction.labelNoun>
+  <!-- 环境 -->
+  <LingXCG_EnvironmentalAdaptation.label>Environmentally adapted chips</LingXCG_EnvironmentalAdaptation.label>
+  <LingXCG_EnvironmentalAdaptation.description>A chip that analyzes environmental conditions and regulates the functioning of the body enables installers to better adapt to extreme environments.</LingXCG_EnvironmentalAdaptation.description>
+  <LingXCG_EnvironmentalAdaptation.labelNoun>chip</LingXCG_EnvironmentalAdaptation.labelNoun>
+  <!-- 思放 -->
+  <LingXCG_MentalRadiation.label>Thinking radiator chips</LingXCG_MentalRadiation.label>
+  <LingXCG_MentalRadiation.description>A chip that can amplify the installer's mental sensitivity, in addition, due to the large range of brain affected, it can also increase the speed of work to a certain extent.</LingXCG_MentalRadiation.description>
+  <LingXCG_MentalRadiation.labelNoun>chip</LingXCG_MentalRadiation.labelNoun>
+  <!-- 安神 -->
+  <LingXCG_Soothe.label>Mental soothing chip</LingXCG_Soothe.label>
+  <LingXCG_Soothe.description>A chip that releases weak comfort waves can make installers less likely to crash and can be disengaged at high speed during most crashes.</LingXCG_Soothe.description>
+  <LingXCG_Soothe.labelNoun>chip</LingXCG_Soothe.labelNoun>
+  <!-- 灵聚 -->
+  <LingXCG_PsyAdd.label>Spiritual convergence chip</LingXCG_PsyAdd.label>
+  <LingXCG_PsyAdd.description>A chip made from a pseudo-personality core can help the installer gather mental power.</LingXCG_PsyAdd.description>
+  <LingXCG_PsyAdd.labelNoun>chip</LingXCG_PsyAdd.labelNoun>
+  <!-- 战偶 -->
+  <LingXCG_FightPuppetC.label>Stand bucket dolls</LingXCG_FightPuppetC.label>
+  <LingXCG_FightPuppetC.description>The imitation made by bionic scholars according to the energy flow method of real combat puppets has extremely powerful combat capabilities, but because they cannot find a suitable energy source, they will squeeze the life energy of the installer after installation, which will cause the installer to age at a high speed visible to the naked eye.</LingXCG_FightPuppetC.description>
+  <LingXCG_FightPuppetC.labelNoun>torso</LingXCG_FightPuppetC.labelNoun>
+</LanguageData>
